@@ -33,12 +33,4 @@
 
 You can also check out my personal website at [https://vercel.com/fajarkusumaa/] to learn more about me and my work.
 
-
-## 🤝 Contributing
-
-If you find any of my projects interesting and would like to contribute, please feel free to open an issue or submit a pull request. Contributions and feedback are always appreciated.
-
-## 🙏 Thanks for visiting!
-
-Thank you for taking the time to explore my GitHub profile. I'm looking forward to connecting with fellow developers and collaborating on exciting projects. Let's build something amazing together!
-
+<br>
