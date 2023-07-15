@@ -1,4 +1,4 @@
-![github-banner](https://github.com/fajarkusumaa/fajarkusumaa/assets/37682720/eada2f1f-9e08-4d1a-afb6-af603a7fcc73)
+![github-banner](https://github.com/fajarkusumaa/fajarkusumaa/assets/37682720/cfc7de0a-f9e2-4fa8-a8d8-24ea0471032a)
 
 
 
