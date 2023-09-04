@@ -25,9 +25,9 @@
 
 <br>
 
+[![Notify](https://github-readme-stats.vercel.app/api/pin/?username=fajarkusumaa&repo=notify&border_color=42597C&bg_color=fff&title_color=42597C&text_color=90979E&icon_color=42597C)](https://github.com/fajarkusumaa/notify)
 [![Unoqli](https://github-readme-stats.vercel.app/api/pin/?username=fajarkusumaa&repo=unoqli&border_color=42597C&bg_color=fff&title_color=42597C&text_color=90979E&icon_color=42597C)](https://github.com/fajarkusumaa/unoqli)
 [![Dinosaurs](https://github-readme-stats.vercel.app/api/pin/?username=fajarkusumaa&repo=dinosaur-list&border_color=42597C&bg_color=fff&title_color=42597C&text_color=90979E&icon_color=42597C)](https://github.com/fajarkusumaa/dinosaur-list)
-[![Notify](https://github-readme-stats.vercel.app/api/pin/?username=fajarkusumaa&repo=notify&border_color=42597C&bg_color=fff&title_color=42597C&text_color=90979E&icon_color=42597C)](https://github.com/fajarkusumaa/notify)
 
 
 ## 🌐 My website
