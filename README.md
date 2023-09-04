@@ -32,6 +32,6 @@
 
 ## 🌐 My website
 
-You can also check out my personal website at [https://vercel.com/fajarkusumaa/] to learn more about me and my work.
+You can also check out my personal website at https://vercel.com/fajarkusumaa/ to learn more about me and my work.
 
 <br>
